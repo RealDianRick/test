@@ -1,1 +1,1 @@
-print("Fock you == Foque em você sex")
+print("Fock you == Foque em você")
