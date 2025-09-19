@@ -1,11 +1,2 @@
-def trataNumero():
-	try:
-		entradaNumero = int(input("Digite um n√∫mero: "))
-		print(entradaNumero)
-		
-	except ValueError:
-		print("Burro")
-trataNumero()
-
-
-
+Curso Python 
+Aula Pr·tica
